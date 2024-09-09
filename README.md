@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yehia Elkasas</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/yehia-zakaria-elkasas-755507202/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="Yehia's LinkedIn" />
@@ -18,13 +17,12 @@
 - 🌟 I'm currently improving my skills in **Big Data Processing** and **Power BI**
 - ⚡ Fun fact: I love playing tennis and reading novel
 
-- ## Quick Overview 🚀
+## Quick Overview 🚀
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yehiaz2409&show_icons=true&theme=radical" alt="Yehia's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=yehiaz2409&currStreakNum=2FD3EB&fire=pink&theme=dark&sideLabels=F00&date_format=[Y.]n.j" alt="GitHub Streak" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehiaz2409&layout=compact&theme=radical" alt="Yehia's Most Used Languages" />
 </p>
-
 
 <!--
 **yehiaz2409/yehiaz2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
