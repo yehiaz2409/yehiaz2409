@@ -14,8 +14,8 @@
 - 🔭 I'm a Computer Engineering student and a **Data Science** enthusiast
 - 🤝 I have 2 years of experience working in software development
 - 🏫 I was also a peer tutor at **The American University in Cairo**
-- 🌟 I'm currently improving my skills in **Big Data Processing** and **Power BI**
-- ⚡ Fun fact: I love playing tennis and reading novel
+- 🌟 I'm currently improving my skills in **Big Data** and **AI**
+- ⚡ Fun fact: I love playing tennis and reading novels
 
 ## Quick Overview 🚀
 
